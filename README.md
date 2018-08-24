@@ -5,7 +5,7 @@
 ## ScreenShot
 ![image](https://github.com/MuhammadZohair/Custom-Edit-Text/blob/master/Screenshot.gif)
 
-[Demo Download](https://github.com/MuhammadZohair/Custom-Edit-Text/blob/master/Custom%20Edittext.apk)
+[Demo Download](https://github.com/MuhammadZohair/Custom-Edit-Text/raw/master/Custom%20Edittext.apk)
 
 ## License
 
