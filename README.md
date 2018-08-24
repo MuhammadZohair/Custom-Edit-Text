@@ -3,7 +3,7 @@
 ![image](https://img.shields.io/badge/Android-Custom%20Edittext-brightgreen.svg)
 
 ## ScreenShot
-![image](https://github.com/MuhammadZohair/Custom-Edit-Text/blob/master/Screenshot.gif)
+![image](https://github.com/MuhammadZohair/Custom-Edit-Text/raw/master/Custom%20Edittext.apk)
 
 [Demo Download](https://github.com/MuhammadZohair/Custom-Edit-Text/blob/master/CustomEditText.apk)
 
